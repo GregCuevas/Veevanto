@@ -2864,6 +2864,10 @@ textarea.form-control {
 .ps-variant.ps-variant--color.color--4:before {
   background-color: gray;
 }
+.ps-variant.ps-variant--color.color--5:before {
+  background-color: blue;
+}
+
 
 .ps-variant.ps-variant--image {
   width: auto;
