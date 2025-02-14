@@ -2726,8 +2726,8 @@ textarea.form-control {
 }
 
 .ps-dropdown > a:after {
-  content: "\e93a";
-  font: normal normal normal 12px/1 linearicons;
+ 
+  
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
