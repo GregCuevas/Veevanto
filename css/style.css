@@ -3831,7 +3831,7 @@ textarea.form-control {
 
 .ps-block--site-features .ps-block__left i {
   font-size: 40px;
-  color: #fff;
+  color: #BD2D36;
 }
 
 .ps-block--site-features .ps-block__right {
@@ -3979,7 +3979,7 @@ textarea.form-control {
 .ps-block--countdown-deal figure {
   display: flex;
   align-items: center;
-  background-color: #f14705;
+  background-color: #BD2D36;
   padding: 7px 20px;
   font-size: 18px;
   font-weight: 600;
@@ -5898,7 +5898,7 @@ textarea.form-control {
 }
 
 .ps-block--promotion-header .ps-btn {
-  background-color: #f14705;
+  background-color: #BD2D36;
   color: #ffffff;
   font-size: 14px;
   padding: 8px 20px;
@@ -5917,7 +5917,7 @@ textarea.form-control {
 .ps-block--promotion-header .ps-block__left h3 {
   line-height: 1;
   font-size: 48px;
-  color: #f14705;
+  color: #BD2D36;
   font-weight: 300;
 }
 
@@ -5935,7 +5935,7 @@ textarea.form-control {
   display: block;
   font-weight: 400;
   font-size: 18px;
-  color: #f14705;
+  color: #BD2D36;
 }
 
 @media (max-width: 1199px) {
@@ -8460,7 +8460,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   line-height: 20px;
   padding: 5px 10px;
   border-radius: 4px;
-  background-color: #f14705;
+  background-color: #BD2D36;
 }
 
 .ps-product .ps-product__badge.out-stock {
@@ -8468,7 +8468,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 .ps-product .ps-product__badge.hot {
-  background-color: #ff8c46;
+  background-color: #BD2D36;
   color: #ffffff;
 }
 
