@@ -2726,8 +2726,6 @@ textarea.form-control {
 }
 
 .ps-dropdown > a:after {
- 
-  
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -2867,7 +2865,6 @@ textarea.form-control {
 .ps-variant.ps-variant--color.color--5:before {
   background-color: blue;
 }
-
 
 .ps-variant.ps-variant--image {
   width: auto;
@@ -3831,7 +3828,7 @@ textarea.form-control {
 
 .ps-block--site-features .ps-block__left i {
   font-size: 40px;
-  color: #BD2D36;
+  color: #bd2d36;
 }
 
 .ps-block--site-features .ps-block__right {
@@ -3979,7 +3976,7 @@ textarea.form-control {
 .ps-block--countdown-deal figure {
   display: flex;
   align-items: center;
-  background-color: #BD2D36;
+  background-color: #bd2d36;
   padding: 7px 20px;
   font-size: 18px;
   font-weight: 600;
@@ -5898,7 +5895,7 @@ textarea.form-control {
 }
 
 .ps-block--promotion-header .ps-btn {
-  background-color: #BD2D36;
+  background-color: #bd2d36;
   color: #ffffff;
   font-size: 14px;
   padding: 8px 20px;
@@ -5917,7 +5914,7 @@ textarea.form-control {
 .ps-block--promotion-header .ps-block__left h3 {
   line-height: 1;
   font-size: 48px;
-  color: #BD2D36;
+  color: #bd2d36;
   font-weight: 300;
 }
 
@@ -5935,7 +5932,7 @@ textarea.form-control {
   display: block;
   font-weight: 400;
   font-size: 18px;
-  color: #BD2D36;
+  color: #bd2d36;
 }
 
 @media (max-width: 1199px) {
@@ -8460,7 +8457,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   line-height: 20px;
   padding: 5px 10px;
   border-radius: 4px;
-  background-color: #BD2D36;
+  background-color: #bd2d36;
 }
 
 .ps-product .ps-product__badge.out-stock {
@@ -8468,7 +8465,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 .ps-product .ps-product__badge.hot {
-  background-color: #BD2D36;
+  background-color: #bd2d36;
   color: #ffffff;
 }
 
@@ -12014,7 +12011,10 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   color: #000;
   height: 42px;
   border: none;
-  border-radius: 0;
+  border-radius: 2px;
+
+  border-bottom: 2px solid #000;
+  border-top: 2px solid #000;
 }
 
 .ps-form--quick-search .form-group--icon {
@@ -12027,7 +12027,10 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 .ps-form--quick-search select.form-control {
-  border-right: 1px solid #ccc;
+  border-right: 2px solid #000;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+  border-top: 2px solid #000;
   border-radius: 4px 0 0 4px;
   padding: 0 10px;
   text-indent: 10px;
